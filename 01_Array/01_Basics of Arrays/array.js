@@ -105,5 +105,4 @@ const cars = [
         productionDate: "2022"
     }
 ];
-
 cars.forEach((car) => console.log(car.brand)); // Car 1 Car 2 Car 3
