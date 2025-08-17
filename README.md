@@ -139,3 +139,7 @@
 - DP on trees
 - Bitmask DP
 - State compression
+
+## References:
+- [ChatGPT](https://chatgpt.com/)
+- [W3school JavaScript](https://www.w3schools.com/js/default.asp)
