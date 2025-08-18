@@ -47,7 +47,7 @@ const flat = nested.flat();
 console.log(flat); // [ 1, 2, 3, 4, 5, 6 ]
 
 /* Splicing and Slicing
-   The splice() method adds new items to an array.
+   The splice() method can add, remove, or replace items in an array.
    The slice() method slices out a piece of an array.
 */
 
