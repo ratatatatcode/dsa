@@ -2,7 +2,7 @@
 
 ## Arrays & Strings
 **Underlying topics:**
-- Basics of arrays and strings
+- Basics of arrays
 - Traversal and iteration
 - Prefix sums
 - String manipulation
@@ -142,4 +142,5 @@
 
 ## References:
 - [ChatGPT](https://chatgpt.com/)
+
 - [W3school JavaScript](https://www.w3schools.com/js/default.asp)
