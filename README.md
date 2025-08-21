@@ -6,7 +6,6 @@
 - Traversal and iteration
 - Prefix sums
 - String manipulation
-- Sorting basics
 - Character counting
 - Frequency arrays
 - In-place operations
@@ -144,3 +143,4 @@
 - [ChatGPT](https://chatgpt.com/)
 
 - [W3school JavaScript](https://www.w3schools.com/js/default.asp)
+
